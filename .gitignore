@@ -1,0 +1,18 @@
+# Go
+*.exe
+*.test
+*.out
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# SO
+.DS_Store
